@@ -8,7 +8,7 @@ tags:
   - Python
 ---
 
-When I followed [Udacity's Python for AI Nanodegree][udacity-python-ai], I created this classifier for my final project. It implements a neural network, using transfer learning, to classify flower breeds.
+When I enrolled in [Udacity's Python for AI Nanodegree][udacity-python-ai], I created this classifier for my final project. It implements a neural network, using transfer learning, to classify flower breeds.
 
 Using `Pytorch`'s library, I wrote files to process the data, build a neural network, train it, and use it to make predictions.
 

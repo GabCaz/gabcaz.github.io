@@ -5,7 +5,7 @@ tags:
   - Programming
 ---
 
-When I followed [University of Pennsylvania's CIS110][cis110-syllabus], I chose to think of an implementation of the [2048 game][2048-wikipedia] for my final project.
+When I enrolled in [University of Pennsylvania's CIS110][cis110-syllabus], I chose to think of an implementation of the [2048 game][2048-wikipedia] for my final project.
 
 The objective was to write clean, well organised object-oriented code. You can find my corresponding GitHub repository [here][2048-GitHub].
 
