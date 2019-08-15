@@ -1,5 +1,5 @@
 ---
-title: "Classifying Images of Flowers with Pytorch"
+title: "Classifying Flower Images with Pytorch"
 last_modified_at: 2019-08-15T16:20:02-05:00
 categories:
   - Blog
