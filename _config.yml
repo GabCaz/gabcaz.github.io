@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Some of my projects.
 github_username: GabCaz
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -57,7 +57,6 @@ plugins:
 author:
   name   : "Gabriel Cazaubieilh"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
