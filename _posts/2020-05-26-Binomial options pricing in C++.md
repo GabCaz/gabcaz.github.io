@@ -14,4 +14,6 @@ using the Binomial tree. To illustrate, I created a couple such derived classes.
 
 The tree is implemented using a single vector, which is efficient in terms of memory. However,
 it does not allow to easily price options which have very strong path-dependency, such as knockout options.
+
+
 [Binomial-GitHub]: https://github.com/GabCaz/Binomial-Option-Pricing
