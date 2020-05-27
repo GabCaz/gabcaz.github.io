@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Gabriel Cazaubieilh"
-  bio    : "A student at HEC Paris, particularly interested in how new technologies can help make decisions, and, more generally, add value."
+  bio    : "Master of Financial Engineering student in a double degree between HEC Paris and UC Berkeley."
   avatar : "/assets/images/bio-photo.jpg"
   links:
     - label: "GitHub"
