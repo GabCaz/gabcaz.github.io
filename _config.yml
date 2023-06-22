@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Some of my projects
-email: gabriel.cazaubieilh@hec.edu
+title: Select repositories overview
+email: gabriel.cazaubieilh@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Some of my projects.
 github_username: GabCaz
@@ -56,7 +56,10 @@ plugins:
 
 author:
   name   : "Gabriel Cazaubieilh"
-  bio    : "Master of Financial Engineering student in a double degree between HEC Paris and UC Berkeley."
+  bio    : "After initial studies in Business / Economics, I became more interesting in programming and 
+  mathematics, and chose to pursue a career in quantitative finance. I am looking forward to learning more, and 
+  would greatly appreciate any feedback or question related to what I have shared in GitHub -- please do not hesitate
+  to reach out!"
   avatar : "/assets/images/bio-photo.jpg"
   links:
     - label: "GitHub"
